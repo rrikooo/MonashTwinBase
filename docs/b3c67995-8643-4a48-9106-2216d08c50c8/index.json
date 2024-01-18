@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/b3c67995-8643-4a48-9106-2216d08c50c8",
+    "hosting-iri": "https://rrikooo.github.io/MonashTwinBase/b3c67995-8643-4a48-9106-2216d08c50c8",
+    "name": "Monash Factory",
+    "description": "Digital twin of a factory.",
+    "baseurl": "https://rrikooo.github.io/MonashTwinBase",
+    "edit": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/b3c67995-8643-4a48-9106-2216d08c50c8/index.yaml",
+    "edit-json": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/b3c67995-8643-4a48-9106-2216d08c50c8/index.json"
+}
