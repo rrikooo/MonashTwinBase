@@ -4,5 +4,7 @@ owner:
 repo_url: https://github.com/rrikooo/MonashTwinBase
 new_twin_url: https://github.com/rrikooo/MonashTwinBase/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://rrikooo.github.io/MonashTwinBase/b3c67995-8643-4a48-9106-2216d08c50c8
+  name: Monash Factory
 - url: https://rrikooo.github.io/MonashTwinBase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
