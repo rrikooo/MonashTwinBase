@@ -8,5 +8,7 @@ twins:
   name: Delivery service
 - url: https://rrikooo.github.io/MonashTwinBase/b3c67995-8643-4a48-9106-2216d08c50c8
   name: Monash Factory
+- url: https://rrikooo.github.io/MonashTwinBase/9ebf45a3-32f3-40bd-a6b4-8dc00a7dd0d9
+  name: Retail store
 - url: https://rrikooo.github.io/MonashTwinBase/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
