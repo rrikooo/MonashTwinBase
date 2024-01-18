@@ -1,4 +1,7 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/9ebf45a3-32f3-40bd-a6b4-8dc00a7dd0d9
+hosting-iri: https://rrikooo.github.io/MonashTwinBase/9ebf45a3-32f3-40bd-a6b4-8dc00a7dd0d9
 name: Retail store
 description: Digital twin of a retail store
+baseurl: https://rrikooo.github.io/MonashTwinBase
+edit: https://github.com/rrikooo/MonashTwinBase/edit/main/docs/9ebf45a3-32f3-40bd-a6b4-8dc00a7dd0d9/index.yaml
+edit-json: https://github.com/rrikooo/MonashTwinBase/edit/main/docs/9ebf45a3-32f3-40bd-a6b4-8dc00a7dd0d9/index.json
