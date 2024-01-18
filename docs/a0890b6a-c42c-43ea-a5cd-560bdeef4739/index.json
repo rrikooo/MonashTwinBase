@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/a0890b6a-c42c-43ea-a5cd-560bdeef4739",
+    "hosting-iri": "https://rrikooo.github.io/MonashTwinBase/a0890b6a-c42c-43ea-a5cd-560bdeef4739",
+    "name": "Delivery service",
+    "description": "Digital twin of a delivery service",
+    "baseurl": "https://rrikooo.github.io/MonashTwinBase",
+    "edit": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/a0890b6a-c42c-43ea-a5cd-560bdeef4739/index.yaml",
+    "edit-json": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/a0890b6a-c42c-43ea-a5cd-560bdeef4739/index.json"
+}
