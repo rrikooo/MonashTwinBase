@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/b4381789-31ac-4ab8-9d7a-07ea11de8b88",
+    "hosting-iri": "https://rrikooo.github.io/MonashTwinBase/b4381789-31ac-4ab8-9d7a-07ea11de8b88",
+    "name": "Subcontractor",
+    "description": "Digital twin of a subcontractor",
+    "baseurl": "https://rrikooo.github.io/MonashTwinBase",
+    "edit": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/b4381789-31ac-4ab8-9d7a-07ea11de8b88/index.yaml",
+    "edit-json": "https://github.com/rrikooo/MonashTwinBase/edit/main/docs/b4381789-31ac-4ab8-9d7a-07ea11de8b88/index.json"
+}
